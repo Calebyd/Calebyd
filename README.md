@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Calebyd
+- 👋 I'm a Computer Science student passionate about coding and technology. Currently learning data structures, algorithms, and web development.
